@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Shaheer Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlsZGswNXh2aHAzOHdwY3BqMnV1YnJpc25uZmNpcXk5NDVpbXNjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
+<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlsZGswNXh2aHAzOHdwY3BqMnV1YnJpc25uZmNpcXk5NDVpbXNjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhshaheernaeem&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhshaheernaeem" /> </p>
