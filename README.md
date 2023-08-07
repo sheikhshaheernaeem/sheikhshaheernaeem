@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://sheikh-shaheer-3-d-portfolio.vercel.app/](https://sheikh-shaheer-3-d-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.al-smar.com/](https://www.al-smar.com/)
 
 - 📫 How to reach me **m.shaheernaeem@gmail.com**
 
-- 📄 Know about my experiences [https://sheikh-shaheer-portfolio-1.vercel.app/](https://sheikh-shaheer-portfolio-1.vercel.app/)
+- 📄 Know about my experiences [https://sheikh-shaheer-3-d-portfolio.vercel.app/](https://sheikh-shaheer-3-d-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
