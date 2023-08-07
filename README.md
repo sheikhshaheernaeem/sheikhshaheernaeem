@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://sheikh-shaheer-portfolio-2.vercel.app/]((https://sheikh-shaheer-3-d-portfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://sheikh-shaheer-portfolio-2.vercel.app/](https://sheikh-shaheer-3-d-portfolio.vercel.app/)
 
 - 📫 How to reach me **m.shaheernaeem@gmail.com**
 
