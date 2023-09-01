@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Shaheer Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coffee" width="100" src="https://cdn.dribbble.com/users/2520294/screenshots/7209485/media/cf226d98a06282e9cabf5c2f8f6d547f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhshaheernaeem&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhshaheernaeem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sheikhshaheer09" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhshaheer09?logo=twitter&style=for-the-badge" alt="sheikhshaheer09" /></a> </p>
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on [AISMAR](www.al-smar.com)
 
 - 🌱 I’m currently learning **Python, NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://www.al-smar.com/](https://www.al-smar.com/)
 
 - 📫 How to reach me **m.shaheernaeem@gmail.com**
 
