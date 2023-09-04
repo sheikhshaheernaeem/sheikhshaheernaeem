@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Shaheer Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coffee" width="300" height="300" src="https://cdn.dribbble.com/users/2520294/screenshots/7209485/media/cf226d98a06282e9cabf5c2f8f6d547f.gif">
+<img align="right" alt="coffee" width="300" height="300" src="https://media0.giphy.com/media/Sh7FMlRTsgB8lO8WKJ/giphy.gif?cid=6c09b9525oshvx7pj0lxgxprpc2lv935ss1bnwjbuiz3ivvw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhshaheernaeem&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhshaheernaeem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sheikhshaheer09" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhshaheer09?logo=twitter&style=for-the-badge" alt="sheikhshaheer09" /></a> </p>
