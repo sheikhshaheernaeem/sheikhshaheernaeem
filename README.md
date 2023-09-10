@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.shaheernaeem@gmail.com**
 
-- 📄 Know about my experiences [https://sheikh-shaheer-3-d-portfolio.vercel.app/](https://sheikh-shaheer-3-d-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://sheikhshaheernaeem.vercel.app/](https://sheikhshaheernaeem.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
